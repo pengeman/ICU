@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="icu-server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/icu_server_jar</output-path>
+    <root id="root">
+      <element id="archive" name="icu-server.jar">
+        <element id="module-output" name="icu-server" />
+        <element id="module-output" name="icu-common" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.62" />
+        <element id="library" level="project" name="Maven: io.netty:netty-all:4.1.45.Final" />
+        <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+        <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.12" />
+        <element id="library" level="application" name="scala-sdk-2.11.121" />
+      </element>
+    </root>
+  </artifact>
+</component>
