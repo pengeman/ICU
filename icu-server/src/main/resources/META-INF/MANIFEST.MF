@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: lib/log4j-1.2.17.jar lib/lombok-1.18.12.jar lib/fastjson-1.2.6
+ 2.jar lib/netty-all-4.1.45.Final.jar lib/scala-actors-2.11.0.jar lib/
+ scala-actors-migration_2.11-1.1.0.jar lib/scala-library.jar lib/scala
+ -parser-combinators_2.11-1.0.4.jar lib/scala-reflect.jar lib/scala-sw
+ ing_2.11-1.0.2.jar lib/scala-xml_2.11-1.0.5.jar
+Main-Class: org.peng.icu.nettyserver.ServerBootStrap
+

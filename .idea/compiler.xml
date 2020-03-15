@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="icu-client" />
+        <module name="icu-server" />
+        <module name="icu-test" />
+        <module name="icu-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="icu-client" target="1.8" />
+      <module name="icu-common" target="1.8" />
+      <module name="icu-parent" target="1.8" />
+      <module name="icu-server" target="1.8" />
+      <module name="icu-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

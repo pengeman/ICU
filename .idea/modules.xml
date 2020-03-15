@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/icu-client/icu-client.iml" filepath="$PROJECT_DIR$/icu-client/icu-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icu-common/icu-common.iml" filepath="$PROJECT_DIR$/icu-common/icu-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icu-parent.iml" filepath="$PROJECT_DIR$/icu-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icu-server/icu-server.iml" filepath="$PROJECT_DIR$/icu-server/icu-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icu-test/icu-test.iml" filepath="$PROJECT_DIR$/icu-test/icu-test.iml" />
+    </modules>
+  </component>
+</project>
